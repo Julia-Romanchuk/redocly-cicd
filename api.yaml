@@ -749,7 +749,7 @@ components:
         name:
           type: string
           examples:
-            - Olenka
+            Olenka
         attempts:
           type: integer
           examples:
