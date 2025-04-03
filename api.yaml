@@ -738,6 +738,10 @@ components:
           type: integer
           examples:
             - 35
+        name:
+          type: string
+          examples:
+            Olenka
         attempts:
           type: integer
           examples:
