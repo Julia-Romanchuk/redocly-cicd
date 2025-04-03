@@ -37,7 +37,7 @@ paths:
             application/json:
               example: This is a demo API.
         '400':
-          $ref: '#/components/responses/badRequest'
+          $ref: '#/components/responses/badRequestt'
   /activities:
     post:
       tags:
@@ -749,7 +749,7 @@ components:
         name:
           type: string
           examples:
-            Olenka
+            - Olenka
         attempts:
           type: integer
           examples:
